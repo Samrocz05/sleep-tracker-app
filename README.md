@@ -47,9 +47,6 @@ Access all branches from this tab.
 )
 
 
-![branchesdropdown](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/590391a3_branches-dropdown-ud855/branches-dropdown-ud855.png
-)
-
 The branches are also accessible from the drop-down in the "Code" tab.
 
 ## Requirements
